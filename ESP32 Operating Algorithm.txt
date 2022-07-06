@@ -1,7 +1,7 @@
 ESP32 Operating Algorithm:
 
 1- Download and install Arduino IDE.
-2- Connect USB wire in ESP32.
+2- Connect USB wire to ESP32.
 3- Try to upload an example such as Blink to check if your computer can identify the ESP32.
 4- If the code is uploaded successfully you are good to go.
 5- If it didn't work, you need to identify it manually by installing the specific driver for the ESP32 to your computer, then it should work.
